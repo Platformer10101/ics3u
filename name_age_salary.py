@@ -1,0 +1,12 @@
+print("Hello, What is your name?")
+name = input()
+print()
+print(f"Hi, {name}! how old are you?")
+age = input()
+print()
+print(f"SO you're {age}, eh? That's not old at all!")
+print(f"How much do you make {name}?")
+money = input()
+print()
+print(f"{money}! I hope thats per hour and not per year! LOL!")
+
